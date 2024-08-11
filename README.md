@@ -53,4 +53,4 @@
 [My Linkedin Profile](https://www.linkedin.com/in/mazayasofirahmani-066/)
 [My Website](https://mazayasofir.wixsite.com/junior-data-science)
 
-
+![Banner 2](https://github.com/MazayaSRahmani/MazayaSRahmani/blob/a4ec4fcd968b9b8102bb55026d43e49cfe51cff9/White%20Minimalist%20Profile%20LinkedIn%20Banner%20(1)2.png)
