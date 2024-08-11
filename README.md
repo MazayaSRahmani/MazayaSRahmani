@@ -39,8 +39,7 @@
 <img align="left" alt="Matplotlib" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original-wordmark.svg" />
 <img align="left" alt="GitHub" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-
-
+</br>
 ---
 
 ### 📰 Latest Writing
@@ -50,7 +49,6 @@
 ---
 
 ### 💼 Find Out More About Me Here!
-[My Linkedin Profile](https://www.linkedin.com/in/mazayasofirahmani-066/)
 [My Website](https://mazayasofir.wixsite.com/junior-data-science)
 
 ![Banner 2](https://github.com/MazayaSRahmani/MazayaSRahmani/blob/a4ec4fcd968b9b8102bb55026d43e49cfe51cff9/White%20Minimalist%20Profile%20LinkedIn%20Banner%20(1)2.png)
