@@ -28,7 +28,7 @@
 #
 ---
 
-### 🪛 Languages and Tools
+## 🪛 Languages and Tools
 
 <img align="left" alt="PostgreSQL" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
 <img align="left" alt="MySQL" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
@@ -42,29 +42,29 @@
 
 ---
 
-### ⌨️ Portfolio Guide
+## ⌨️ Portfolio Guide
 
-#### **1. SQL mini projects**
+### **1. SQL mini projects**
 Take a look at my mini SQL projects by exploring my [SQL-challenges](https://github.com/MazayaSRahmani/SQL-challenges) repository or by just clicking the link!
 
-#### **2. Data Analysis Projects**
+### **2. Data Analysis Projects**
 Take a deep dive into a world of data by using Python libraries such as Pandas, Matplotlib, and more by clicking on my repositories below:
 1. Click on the [AirbnbBangkok Repo](https://github.com/MazayaSRahmani/AirbnbBangkokAnalysis) to delve into Bangkok's Airbnb strategies
 2. Click on the [TikTokAnalysis Repo](https://github.com/MazayaSRahmani/TikTokAnalysis) to see insights on how this platform is doing
 
-#### **3. Machine Learning Project**
+### **3. Machine Learning Project**
 Curious about how churned customers make a devastating impact on the Telco industry? Take a look at [the MLTelcoChurn Repo](https://github.com/MazayaSRahmani/MLTelcoChurn) to see how we can combat it by making predictive models and maximizing our efforts to prevent customers from exiting our company!
 
 ---
 
-### 📰 Latest Writing
+## 📰 Latest Writing
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kimmaekhyun/0" alt="Recent Article 0"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kimmaekhyun/2" alt="Recent Article 4"> 
 
 #
 ---
 
-### 💼 Find Out More About Me Here!
+## 💼 Find Out More About Me Here!
 [My Website]()
 
 ![Banner 2](https://github.com/MazayaSRahmani/MazayaSRahmani/blob/a4ec4fcd968b9b8102bb55026d43e49cfe51cff9/White%20Minimalist%20Profile%20LinkedIn%20Banner%20(1)2.png)
