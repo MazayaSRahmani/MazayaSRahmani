@@ -39,7 +39,8 @@
 <img align="left" alt="Matplotlib" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original-wordmark.svg" />
 <img align="left" alt="GitHub" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-#
+
+<br><br><br><br><br><br><br><br>
 ---
 
 ### 📰 Latest Writing
