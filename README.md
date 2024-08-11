@@ -44,6 +44,21 @@
 <br><br><br><br><br><br><br><br>
 ---
 
+### ⌨️ Portfolio Guide
+
+#### SQL mini projects
+Take a look at my mini SQL projects by exploring my [SQL-challenges](https://github.com/MazayaSRahmani/SQL-challenges) repository or by just clicking the link!
+
+#### Data Analysis Projects
+Take a deep dive into a world of data by using Python libraries such as Pandas, Matplotlib, and more by clicking on my repositories below:
+1. Click on the [AirbnbBangkok Repo](https://github.com/MazayaSRahmani/AirbnbBangkokAnalysis) to delve into Bangkok's Airbnb strategies
+2. Click on the [TikTokAnalysis Repo](https://github.com/MazayaSRahmani/TikTokAnalysis) to see insights on how this platform is doing
+
+#### Machine Learning Project
+Curious about how churned customers make a devastating impact on the Telco industry? Take a look at [the MLTelcoChurn Repo](https://github.com/MazayaSRahmani/MLTelcoChurn) to see how we can combat it by making predictive models and maximizing our efforts to prevent customers from exiting our company!
+
+---
+
 ### 📰 Latest Writing
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kimmaekhyun/0" alt="Recent Article 0"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kimmaekhyun/2" alt="Recent Article 4"> 
