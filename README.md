@@ -1,4 +1,5 @@
-(https://github.com/MazayaSRahmani/MazayaSRahmani/blob/b2bfcfa22064aa3b42dc8e6a7b74ff15cd19b1ee/White%20Minimalist%20Profile%20LinkedIn%20Banner%20(1)1.png)
+![Banner 1](https://github.com/MazayaSRahmani/MazayaSRahmani/blob/b2bfcfa22064aa3b42dc8e6a7b74ff15cd19b1ee/White%20Minimalist%20Profile%20LinkedIn%20Banner%20(1)1.png)
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Geneva&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mazaya,;+and+Welcome+to+My+GitHub!" />
