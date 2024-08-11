@@ -39,13 +39,14 @@
 <img align="left" alt="Matplotlib" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original-wordmark.svg" />
 <img align="left" alt="GitHub" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-</br>
+#
 ---
 
 ### 📰 Latest Writing
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kimmaekhyun/0" alt="Recent Article 0"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kimmaekhyun/2" alt="Recent Article 4"> 
 
+#
 ---
 
 ### 💼 Find Out More About Me Here!
