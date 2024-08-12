@@ -57,9 +57,17 @@ Curious about how churned customers make a devastating impact on the Telco indus
 
 ---
 
-## Check out some of my Visualization Works!
+## Check out some of my Visualization Works on Looker here!
+
+<br><br>
+
+https://github.com/user-attachments/assets/25fa49ed-3fec-4a00-8380-9e66486bcd48
+
+<br><br>
 
 https://github.com/user-attachments/assets/07f63cfa-c8da-4a8d-8233-1efd76af47c1
+
+<br><br>
 
 ---
 
