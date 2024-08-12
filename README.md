@@ -25,9 +25,6 @@
 </div>
 
 
-#
----
-
 ## 🪛 Languages and Tools
 
 <img align="left" alt="PostgreSQL" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
@@ -40,7 +37,6 @@
 
 <br><br><br>
 
----
 
 ## ⌨️ Portfolio Guide
 
@@ -55,8 +51,6 @@ Take a deep dive into a world of data by using Python libraries such as Pandas, 
 ### **3. Machine Learning Project**
 Curious about how churned customers make a devastating impact on the Telco industry? Take a look at [the MLTelcoChurn Repo](https://github.com/MazayaSRahmani/MLTelcoChurn) to see how we can combat it by making predictive models and maximizing our efforts to prevent customers from exiting our company!
 
-
-
 ## Check out some of my Visualization Works on Looker here!
 
 https://github.com/user-attachments/assets/25fa49ed-3fec-4a00-8380-9e66486bcd48
@@ -64,14 +58,10 @@ https://github.com/user-attachments/assets/25fa49ed-3fec-4a00-8380-9e66486bcd48
 https://github.com/user-attachments/assets/07f63cfa-c8da-4a8d-8233-1efd76af47c1
 
 
----
 
 ## 📰 Latest Writing
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kimmaekhyun/0" alt="Recent Article 0"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kimmaekhyun/2" alt="Recent Article 4"> 
-
-#
----
 
 ## 💼 Find Out More About Me Here!
 [My Website]()
