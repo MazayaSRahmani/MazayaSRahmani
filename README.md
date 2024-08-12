@@ -55,19 +55,14 @@ Take a deep dive into a world of data by using Python libraries such as Pandas, 
 ### **3. Machine Learning Project**
 Curious about how churned customers make a devastating impact on the Telco industry? Take a look at [the MLTelcoChurn Repo](https://github.com/MazayaSRahmani/MLTelcoChurn) to see how we can combat it by making predictive models and maximizing our efforts to prevent customers from exiting our company!
 
----
+
 
 ## Check out some of my Visualization Works on Looker here!
 
-<br><br>
-
 https://github.com/user-attachments/assets/25fa49ed-3fec-4a00-8380-9e66486bcd48
-
-<br><br>
 
 https://github.com/user-attachments/assets/07f63cfa-c8da-4a8d-8233-1efd76af47c1
 
-<br><br>
 
 ---
 
