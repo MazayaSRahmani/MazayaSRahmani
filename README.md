@@ -24,7 +24,7 @@
   </a>
 </div>
 
-
+<br><br>
 ## 🪛 Languages and Tools
 
 <img align="left" alt="PostgreSQL" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
@@ -51,19 +51,16 @@ Take a deep dive into a world of data by using Python libraries such as Pandas, 
 ### **3. Machine Learning Project**
 Curious about how churned customers make a devastating impact on the Telco industry? Take a look at [the MLTelcoChurn Repo](https://github.com/MazayaSRahmani/MLTelcoChurn) to see how we can combat it by making predictive models and maximizing our efforts to prevent customers from exiting our company!
 
-## Check out some of my Visualization Works on Looker here!
+<br><br>
+## 📈 Check out some of my Visualization Works on Looker here!
 
 https://github.com/user-attachments/assets/25fa49ed-3fec-4a00-8380-9e66486bcd48
 
 https://github.com/user-attachments/assets/07f63cfa-c8da-4a8d-8233-1efd76af47c1
 
-
-
+<br><br>
 ## 📰 Latest Writing
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kimmaekhyun/0" alt="Recent Article 0"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kimmaekhyun/2" alt="Recent Article 4"> 
-
-## 💼 Find Out More About Me Here!
-[My Website]()
 
 ![Banner 2](https://github.com/MazayaSRahmani/MazayaSRahmani/blob/a4ec4fcd968b9b8102bb55026d43e49cfe51cff9/White%20Minimalist%20Profile%20LinkedIn%20Banner%20(1)2.png)
