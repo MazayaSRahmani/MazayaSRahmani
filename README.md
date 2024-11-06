@@ -59,7 +59,7 @@ https://github.com/user-attachments/assets/25fa49ed-3fec-4a00-8380-9e66486bcd48
 
 <br><br>
 ## 📰 Latest Writing
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kimmaekhyun/0" alt="Recent Article 0"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kimmaekhyun/2" alt="Recent Article 4"> 
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kimmaekhyun/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kimmaekhyun/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kimmaekhyun/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kimmaekhyun/2" alt="Recent Article 4"> 
 
 ![Banner 2](https://github.com/MazayaSRahmani/MazayaSRahmani/blob/a4ec4fcd968b9b8102bb55026d43e49cfe51cff9/White%20Minimalist%20Profile%20LinkedIn%20Banner%20(1)2.png)
