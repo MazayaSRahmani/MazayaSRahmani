@@ -7,7 +7,7 @@
 
 # 👩‍🚀 Mazaya here! 
 
-🎓 Final-year Journalism student with a data-driven twist, currently adventuring in the uncharted territories of data at TRANS 7 as a Consumer Research Intern. Armed with Excel, SQL, Python, Tableau Public, and Looker, check out my [Medium Page](https://medium.com/@kimmaekhyun) cause I’m not just crunching numbers—I’m telling stories with them!
+🎓 Freshgraduate of Universitas Padjadjaran Journalism major with a data-driven twist, currently adventuring in the uncharted territories of data at TRANS 7 as a Consumer Research Intern. Armed with Excel, SQL, Python, Tableau Public, and Looker, check out my [Medium Page](https://medium.com/@kimmaekhyun) cause I’m not just crunching numbers—I’m telling stories with them!
 
 💻 Fascinated by modern media and the evolution of news, I dive deep into projects like YouTube comments text analysis, satisfaction surveys, audio-to-text processing, churn prediction modeling, and Airbnb listings analysis. My passion? Uncovering the hidden narratives within data and exploring how technology shapes how we consume and share information.
 
